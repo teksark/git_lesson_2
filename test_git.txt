@@ -1,3 +1,4 @@
 Hello Git!
 Hello world!!!!
 Hello C++
+# (c) 2018
