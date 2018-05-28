@@ -1,5 +1,5 @@
 # I am autor!!
-Hello git!
+Hello Git!
 Hello world!!!!
 Hello C++
 # (c) 2018
