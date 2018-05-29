@@ -2,6 +2,6 @@
 Hello Git!
 Hello world!!!!
 Hello C++
-<<<<<<< HEAD
 # (c) 2018
 Hello from clone!
+Git Gui
